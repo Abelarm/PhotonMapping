@@ -3,4 +3,4 @@ CUDA implementation of basic photon mapping, returning a photon matrix that can 
 
 made with Steven Rosario Sirchia, Vincenzo Venosi, Rosario di Florio
 
-1 year of master
+1st year of master
